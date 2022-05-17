@@ -9,7 +9,7 @@
       </ul>
    </div>
    <div class="copyright">
-      <div class="footer text-center">Design & Develop By FYMCA Group 16 | Mini Project Trimester 9</div>
+      <div class="footer text-center">Design & Develop By FYMCA Group 16 | Mini Project Trimester 3</div>
             &copy; Artistic Lane. All rights reserved.
    </div>
 </footer>
